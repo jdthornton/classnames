@@ -1,0 +1,23 @@
+{
+  "name": "@jdthornton/classnames",
+  "version": "1.0.1",
+  "description": "Class string joining made easy",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Jake Thornton",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  },
+  "files": [
+    "/dist",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdthornton/classnames.git"
+  }
+}
